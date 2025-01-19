@@ -1,4 +1,4 @@
-## Absenteeism at Work Youtube 
+## Absenteeism at Work 
 Nowadays, work relationships are becoming more and more trust-oriented, and 
 conservative contracts (in which working time is strictly monitored) are being replaced 
 with more agile ones in which the employee themselves is responsible for accounting 
@@ -20,4 +20,3 @@ and We will use new plots such as:
 2. jointplot
 3. countplot
 
-![thumnail](https://github.com/Galal-pic/The-Data-Analysis-Workshop/assets/70837846/b34d9983-1795-46d8-94c8-bef953d56244)
